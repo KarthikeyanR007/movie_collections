@@ -1,0 +1,27 @@
+.movie > h1{
+    color: white;
+    width: 300px;
+    padding-left: 40px;
+    font-size: 20px;
+    /* position: relative; */
+}
+.movie > p {
+    color: azure;
+    margin-top: 20px;
+    margin-left: 30px;
+    /* margin-bottom: 30px; */
+    /* position: absolute; */
+    padding-bottom: 30px;
+    font-size: large;
+}
+.movie_img{
+    object-fit: cover;
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.movie_title{
+    color: bisque;
+    padding-top: 40px;
+    
+}
